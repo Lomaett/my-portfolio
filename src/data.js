@@ -34,10 +34,10 @@ export const projects = [
     link: "https://public.tableau.com/app/profile/ajirioghene.oguh/viz/COVIDCases2020-2022/Dashboard1",
   },
   {
-    title: "Sentiment Analysis",
+    title: "Sentiment Analysis on Hate Speech and Offensive Tweets",
     subtitle: "Python and Streamlit",
     description:
-      "Machine Learning model that is able to detect if a tweet is hate speech, offensive or neither.",
+      "Natural Language Processing machine learning model that is able to detect if a tweet is hate speech, offensive or neither.",
     image: "./hate_speech.gif",
     link: "https://github.com/Lomaett/hate_and_offensive_speech",
   },
