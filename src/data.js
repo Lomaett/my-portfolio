@@ -37,7 +37,7 @@ export const projects = [
     title: "Sentiment Analysis on Hate Speech and Offensive Tweets",
     subtitle: "Python and Streamlit",
     description:
-      "Natural Language Processing machine learning model that is able to detect if a tweet is hate speech, offensive or neither.",
+      "Natural Language Processing to detect if a tweet is hate speech, offensive or neither.",
     image: "./hate_speech.gif",
     link: "https://github.com/Lomaett/hate_and_offensive_speech",
   },
