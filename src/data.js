@@ -37,9 +37,9 @@ export const projects = [
     title: "Sentiment Analysis",
     subtitle: "Python and Streamlit",
     description:
-      "Machine Learning model that is able to classify whether or not a person believes in climate change based on their tweets.",
-    image: "./tweet.gif",
-    link: "https://github.com/2301ACDSES1-Classification/Advanced_Classification",
+      "Machine Learning model that is able to detect if a tweet is hate speech, offensive or neither.",
+    image: "./hate_speech.gif",
+    link: "https://github.com/Lomaett/hate_and_offensive_speech",
   },
   {
     title: "Mobile Signal strength",
