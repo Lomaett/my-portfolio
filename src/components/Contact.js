@@ -57,8 +57,6 @@ export default function Contact() {
               <a className="text-indigo-400 leading-relaxed">
                 ajirioguh@gmail.com
               </a>
-            </div>
-            <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
@@ -78,14 +76,6 @@ export default function Contact() {
             Reach out to me via email or any of the links below.
           </p>
           <div className="flex justify-center mt-6">
-            <a
-                href="https://twitter.com/ajirioguh"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-white mx-2"
-            >
-                <FontAwesomeIcon icon={faTwitter}/>
-            </a>
             <a
                 href="https://linkedin.com/in/ajirioghene-oguh"
                 target="_blank"
