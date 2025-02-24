@@ -48,10 +48,10 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS
               </h2>
-              <p className="mt-4">
+              <p className="mt-1">
                 Lagos, Nigeria
               </p>
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs">
+              <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 EMAIL
               </h2>
               <p className="text-indigo-400 leading-relaxed">
