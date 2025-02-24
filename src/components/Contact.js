@@ -48,7 +48,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS
               </h2>
-              <p className="mt-1">
+              <p className="mt-4">
                 Lagos, Nigeria
               </p>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
